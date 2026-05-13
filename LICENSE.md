@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Obsidian for Windows tool with custom Obsidian for Windows Tool | search-functionality + markdown-support. Featuring search-functionality and markdown-support,
 
 
 
